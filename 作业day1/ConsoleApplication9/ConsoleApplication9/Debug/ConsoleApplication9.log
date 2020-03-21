@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/11/4 22:27:51。
+     1>项目“E:\bit作业\作业day1\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Users\忘记\AppData\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ConsoleApplication9.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Users\忘记\AppData\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication9.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication9.cpp
+         ConsoleApplication9.cpp
+     1>e:\bit作业\作业day1\consoleapplication9\consoleapplication9\consoleapplication9.cpp(4): warning C4627: “#include <iostream>”: 在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>e:\bit作业\作业day1\consoleapplication9\consoleapplication9\consoleapplication9.cpp(5): warning C4627: “#include <WinSock2.h>”: 在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>e:\bit作业\作业day1\consoleapplication9\consoleapplication9\consoleapplication9.cpp(6): warning C4627: “#include <Windows.h>”: 在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>e:\bit作业\作业day1\consoleapplication9\consoleapplication9\consoleapplication9.cpp(7): warning C4627: “#include <WS2tcpip.h>”: 在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>e:\bit作业\作业day1\consoleapplication9\consoleapplication9\consoleapplication9.cpp(8): warning C4627: “#include <string.h>”: 在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>e:\bit作业\作业day1\consoleapplication9\consoleapplication9\consoleapplication9.cpp(105): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+     1>已完成生成项目“E:\bit作业\作业day1\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.08

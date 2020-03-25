@@ -1,0 +1,37 @@
+﻿生成启动时间为 2019/8/17 21:54:13。
+     1>项目“E:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Users\忘记\AppData\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\test.shuqi.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt test.shuqi.c
+         test.shuqi.c
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(29): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\users\忘记\appdata\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(31): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(32): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(33): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(34): error C2065: “i”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(36): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(36): error C2143: 语法错误 : 缺少“)”(在“类型”的前面)
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(36): error C2065: “j”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(36): error C2065: “len1”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(36): warning C4552: “<”: 运算符不起任何作用；应输入带副作用的运算符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(36): error C2059: 语法错误:“)”
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(37): error C2143: 语法错误 : 缺少“;”(在“if”的前面)
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(37): error C2065: “i”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(37): error C2065: “j”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(39): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(39): error C2143: 语法错误 : 缺少“)”(在“类型”的前面)
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(39): error C2065: “k”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(39): error C2065: “len2”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(39): warning C4552: “<”: 运算符不起任何作用；应输入带副作用的运算符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(39): error C2059: 语法错误:“)”
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(40): error C2146: 语法错误: 缺少“;”(在标识符“str2”的前面)
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(40): error C2065: “k”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(41): error C2065: “len2”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(44): error C2065: “j”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(44): error C2065: “len1”: 未声明的标识符
+     1>e:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.c(45): error C2065: “i”: 未声明的标识符
+     1>已完成生成项目“E:\bit作业\作业day1\test.shuqi\test.shuqi\test.shuqi.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.02

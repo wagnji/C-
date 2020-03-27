@@ -1,0 +1,14 @@
+﻿生成启动时间为 2019/5/20 20:01:10。
+     1>项目“E:\C语言练习\最小生成树prim算法\最小生成树prim算法\最小生成树prim算法.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Users\忘记\AppData\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\最小生成树prim算法.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Users\忘记\AppData\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\最小生成树prim算法.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "最小生成树prim算法.cpp"
+         最小生成树prim算法.cpp
+     1>e:\c语言练习\最小生成树prim算法\最小生成树prim算法\最小生成树prim算法.cpp(53): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\users\忘记\appdata\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>已完成生成项目“E:\C语言练习\最小生成树prim算法\最小生成树prim算法\最小生成树prim算法.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.86
